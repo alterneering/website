@@ -1,0 +1,3 @@
+[submodule "alterneering.github.io"]
+	path = alterneering.github.io
+	url = git@github.com:alterneering/alterneering.github.io.git
