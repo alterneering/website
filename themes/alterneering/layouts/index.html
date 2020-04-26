@@ -1,0 +1,11 @@
+{{ define "main" }}
+    <main aria-role="main">
+        <div>
+            <h1 class="hplogo">{{ .Site.Title }}
+                <img src="hp_logo.svg" alt="Alterneering logo" />
+            </h1>
+            
+            {{ partial "menu.html" . }}
+        </div>
+    </main>
+{{ end }}
