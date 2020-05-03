@@ -109,17 +109,10 @@ disableHugoGeneratorInject = false
     url  = "https://www.instagram.com/alterneering/"
 
 
-    [[params.social]]
-        name = "twitter"
-        url  = "https://twitter.com/alterneeringhq/"
-
   [[params.social]]
-    name = "github"
-    url  = "https://github.com/alterneering"
+      name = "twitter"
+      url  = "https://twitter.com/alterneeringhq/"
 
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/company/alterneering-studios/"
 
 [languages]
   [languages.en]

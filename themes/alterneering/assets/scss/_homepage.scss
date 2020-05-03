@@ -1,4 +1,21 @@
 .hplogo {
-    width: 320px;
+    //width: 320px;
     text-indent: -9999px;
 }
+
+.highlight {
+    background-color: #EEFF41;
+    display: inline-block;
+    // background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);
+}
+
+.highlight:hover {
+    transform: scale(-1, 1);
+    
+}
+
+.dark-theme .highlight {
+    background-color: #fff;
+    color: #000;
+    display: inline-block;
+}    
