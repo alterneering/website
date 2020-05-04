@@ -106,7 +106,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "instagram"
-    url  = "https://www.instagram.com/alterneering/"
+    url  = "https://www.instagram.com/alterneeringstudios/"
 
 
   [[params.social]]
