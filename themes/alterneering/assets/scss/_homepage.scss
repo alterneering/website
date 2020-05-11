@@ -94,6 +94,10 @@
   margin-left: 0;
   list-style: none;
 
+  .dark-theme & a {
+    color: #EEFF41;
+  }
+
   a {
     font-weight: bold;
     text-decoration: none;

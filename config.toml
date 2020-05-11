@@ -11,7 +11,7 @@ PygmentsStyle = "monokai"
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
-# googleAnalytics = ""
+# googleAnalytics = "UA-166063847-1"
 # disqusShortname = ""
 
 archetypeDir = "archetypes"
@@ -38,7 +38,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "OG Alterneer"
+  name = "Alterneering Studios"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -46,6 +46,7 @@ disableHugoGeneratorInject = false
 [taxonomies]
   tag      = "tags"
   category = "categories"
+  series = "series"
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -55,8 +56,9 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   description = "Alterneering Studios"
-  keywords = ""
-  images = [""]
+  keywords = "speculative design, design, future, research, studio, artifacts, new realities, moments of doubt, object design, digital design, service design"
+  images = ["Twitter_card.png"]
+  title = "Alterneering Studios"
 
   homeSubtitle = "Alterneering Studios"
 
@@ -116,9 +118,9 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = "Alterneering Studios"
     weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener">CC BY-NC-ND 4.0</a>'
 
 
 [menu]
