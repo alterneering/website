@@ -55,7 +55,7 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Alterneering Studios"
+  description = "Alterneering Studios is a London based speculative design studio that engineers alternatives by bringing them to life. Cool innit?"
   keywords = "Futures thinking, beyond design thinking, design thinking, critical design, design criticism, criticism, design fiction, social dreaming, speculative everything, futurologist, futurology, future probes, workshop, design for debate, radical design, imaginary futures, utopia, real utopias, dystopia, futurescaping, dark design, what if, fictional world, innovation, micro-utopia,  mixed reality, sci art, art and science, concept design, systems thinking, social design, experimental design, product design, object design, UX design, concept art"
   images = ["Twitter_card.png"]
   title = "Alterneering Studios"
