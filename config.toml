@@ -18,7 +18,6 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "alterneering.github.io"
 
 buildDrafts  = false
 buildFuture  = false
